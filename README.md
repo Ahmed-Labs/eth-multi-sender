@@ -1,1 +1,2 @@
-# eth-multi-sender
+Ethereum Multi-Sender
+
