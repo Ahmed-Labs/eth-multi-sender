@@ -8,6 +8,7 @@ module.exports = {
         nurple: "#333456",
         purple: "#595B83",
         pink: "#F4ABC4",
+        lurple: "#343756"       
       },
     },
   },
